@@ -822,3 +822,624 @@ Retrieving game schedule of ENG-Premier League - 2021 from the cache
 INFO 2022-09-15 18:48:58,485 [whoscored.py:read_events:584]
 [1/1] Retrieving game with id=1485184
 
+INFO 2022-09-15 21:36:57,209 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 21:36:58,038 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\eb6bbd81ece12e82_chromedriver.exe
+
+INFO 2022-09-15 21:39:36,723 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 21:39:37,342 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\19b6a4f2a54b4ee6_chromedriver.exe
+
+INFO 2022-09-15 21:39:38,835 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:38,857 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 21:39:41,050 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:41,068 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485185
+
+INFO 2022-09-15 21:39:45,554 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:45,573 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485186
+
+INFO 2022-09-15 21:39:45,646 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:45,664 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485187
+
+INFO 2022-09-15 21:39:45,734 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:45,753 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485188
+
+INFO 2022-09-15 21:39:45,826 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:45,846 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485189
+
+INFO 2022-09-15 21:39:45,924 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:45,943 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485190
+
+INFO 2022-09-15 21:39:46,031 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,049 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485191
+
+INFO 2022-09-15 21:39:46,203 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,221 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485192
+
+INFO 2022-09-15 21:39:46,291 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,311 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485193
+
+INFO 2022-09-15 21:39:46,382 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,401 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485194
+
+INFO 2022-09-15 21:39:46,476 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,495 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485195
+
+INFO 2022-09-15 21:39:46,577 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,596 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485196
+
+INFO 2022-09-15 21:39:46,688 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,706 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485197
+
+INFO 2022-09-15 21:39:46,865 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:39:46,884 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485198
+
+ERROR 2022-09-15 21:39:48,987 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0028DF13+2219795]
+	Ordinal0 [0x00222841+1779777]
+	Ordinal0 [0x0013423D+803389]
+	Ordinal0 [0x00130A12+789010]
+	Ordinal0 [0x001278FD+751869]
+	Ordinal0 [0x0012853F+755007]
+	Ordinal0 [0x00127B11+752401]
+	Ordinal0 [0x0012706A+749674]
+	Ordinal0 [0x00125F94+745364]
+	Ordinal0 [0x001263FD+746493]
+	Ordinal0 [0x00135A8E+809614]
+	Ordinal0 [0x0018F87D+1177725]
+	Ordinal0 [0x0017E7FC+1107964]
+	Ordinal0 [0x0018F192+1175954]
+	Ordinal0 [0x0017E616+1107478]
+	Ordinal0 [0x00157F89+950153]
+	Ordinal0 [0x00158F56+954198]
+	GetHandleVerifier [0x00582CB2+3040210]
+	GetHandleVerifier [0x00572BB4+2974420]
+	GetHandleVerifier [0x00326A0A+565546]
+	GetHandleVerifier [0x00325680+560544]
+	Ordinal0 [0x00229A5C+1808988]
+	Ordinal0 [0x0022E3A8+1827752]
+	Ordinal0 [0x0022E495+1827989]
+	Ordinal0 [0x002380A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+	(No symbol) [0x00000000]
+
+INFO 2022-09-15 21:39:49,803 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\374fc1b8f44f6564_chromedriver.exe
+
+ERROR 2022-09-15 21:39:53,346 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00BEDF13+2219795]
+	Ordinal0 [0x00B82841+1779777]
+	Ordinal0 [0x00A9423D+803389]
+	Ordinal0 [0x00A90A12+789010]
+	Ordinal0 [0x00A878FD+751869]
+	Ordinal0 [0x00A8853F+755007]
+	Ordinal0 [0x00A87B11+752401]
+	Ordinal0 [0x00A8706A+749674]
+	Ordinal0 [0x00A85F94+745364]
+	Ordinal0 [0x00A863FD+746493]
+	Ordinal0 [0x00A95A8E+809614]
+	Ordinal0 [0x00AEF87D+1177725]
+	Ordinal0 [0x00ADE7FC+1107964]
+	Ordinal0 [0x00AEF192+1175954]
+	Ordinal0 [0x00ADE616+1107478]
+	Ordinal0 [0x00AB7F89+950153]
+	Ordinal0 [0x00AB8F56+954198]
+	GetHandleVerifier [0x00EE2CB2+3040210]
+	GetHandleVerifier [0x00ED2BB4+2974420]
+	GetHandleVerifier [0x00C86A0A+565546]
+	GetHandleVerifier [0x00C85680+560544]
+	Ordinal0 [0x00B89A5C+1808988]
+	Ordinal0 [0x00B8E3A8+1827752]
+	Ordinal0 [0x00B8E495+1827989]
+	Ordinal0 [0x00B980A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+INFO 2022-09-15 21:39:54,100 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\e019157eaf4f49f4_chromedriver.exe
+
+ERROR 2022-09-15 21:39:57,689 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0042DF13+2219795]
+	Ordinal0 [0x003C2841+1779777]
+	Ordinal0 [0x002D423D+803389]
+	Ordinal0 [0x002D0A12+789010]
+	Ordinal0 [0x002C78FD+751869]
+	Ordinal0 [0x002C853F+755007]
+	Ordinal0 [0x002C7B11+752401]
+	Ordinal0 [0x002C706A+749674]
+	Ordinal0 [0x002C5F94+745364]
+	Ordinal0 [0x002C63FD+746493]
+	Ordinal0 [0x002D5A8E+809614]
+	Ordinal0 [0x0032F87D+1177725]
+	Ordinal0 [0x0031E7FC+1107964]
+	Ordinal0 [0x0032F192+1175954]
+	Ordinal0 [0x0031E616+1107478]
+	Ordinal0 [0x002F7F89+950153]
+	Ordinal0 [0x002F8F56+954198]
+	GetHandleVerifier [0x00722CB2+3040210]
+	GetHandleVerifier [0x00712BB4+2974420]
+	GetHandleVerifier [0x004C6A0A+565546]
+	GetHandleVerifier [0x004C5680+560544]
+	Ordinal0 [0x003C9A5C+1808988]
+	Ordinal0 [0x003CE3A8+1827752]
+	Ordinal0 [0x003CE495+1827989]
+	Ordinal0 [0x003D80A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+INFO 2022-09-15 21:39:58,461 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\52ae09bad4848986_chromedriver.exe
+
+ERROR 2022-09-15 21:40:02,029 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CADF13+2219795]
+	Ordinal0 [0x00C42841+1779777]
+	Ordinal0 [0x00B5423D+803389]
+	Ordinal0 [0x00B50A12+789010]
+	Ordinal0 [0x00B478FD+751869]
+	Ordinal0 [0x00B4853F+755007]
+	Ordinal0 [0x00B47B11+752401]
+	Ordinal0 [0x00B4706A+749674]
+	Ordinal0 [0x00B45F94+745364]
+	Ordinal0 [0x00B463FD+746493]
+	Ordinal0 [0x00B55A8E+809614]
+	Ordinal0 [0x00BAF87D+1177725]
+	Ordinal0 [0x00B9E7FC+1107964]
+	Ordinal0 [0x00BAF192+1175954]
+	Ordinal0 [0x00B9E616+1107478]
+	Ordinal0 [0x00B77F89+950153]
+	Ordinal0 [0x00B78F56+954198]
+	GetHandleVerifier [0x00FA2CB2+3040210]
+	GetHandleVerifier [0x00F92BB4+2974420]
+	GetHandleVerifier [0x00D46A0A+565546]
+	GetHandleVerifier [0x00D45680+560544]
+	Ordinal0 [0x00C49A5C+1808988]
+	Ordinal0 [0x00C4E3A8+1827752]
+	Ordinal0 [0x00C4E495+1827989]
+	Ordinal0 [0x00C580A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+INFO 2022-09-15 21:40:02,814 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\c2eb0bfbf80ff76f_chromedriver.exe
+
+ERROR 2022-09-15 21:40:06,443 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003FDF13+2219795]
+	Ordinal0 [0x00392841+1779777]
+	Ordinal0 [0x002A423D+803389]
+	Ordinal0 [0x002A0A12+789010]
+	Ordinal0 [0x002978FD+751869]
+	Ordinal0 [0x0029853F+755007]
+	Ordinal0 [0x00297B11+752401]
+	Ordinal0 [0x0029706A+749674]
+	Ordinal0 [0x00295F94+745364]
+	Ordinal0 [0x002963FD+746493]
+	Ordinal0 [0x002A5A8E+809614]
+	Ordinal0 [0x002FF87D+1177725]
+	Ordinal0 [0x002EE7FC+1107964]
+	Ordinal0 [0x002FF192+1175954]
+	Ordinal0 [0x002EE616+1107478]
+	Ordinal0 [0x002C7F89+950153]
+	Ordinal0 [0x002C8F56+954198]
+	GetHandleVerifier [0x006F2CB2+3040210]
+	GetHandleVerifier [0x006E2BB4+2974420]
+	GetHandleVerifier [0x00496A0A+565546]
+	GetHandleVerifier [0x00495680+560544]
+	Ordinal0 [0x00399A5C+1808988]
+	Ordinal0 [0x0039E3A8+1827752]
+	Ordinal0 [0x0039E495+1827989]
+	Ordinal0 [0x003A80A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+INFO 2022-09-15 21:40:07,317 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\709bcdea0b7369e2_chromedriver.exe
+
+WARNING 2022-09-15 21:40:12,800 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43481D720>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/21b4bad96b66b44e6a031e7925b65529
+
+WARNING 2022-09-15 21:40:16,861 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43513D5A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/21b4bad96b66b44e6a031e7925b65529
+
+WARNING 2022-09-15 21:40:20,916 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43513D270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/21b4bad96b66b44e6a031e7925b65529
+
+WARNING 2022-09-15 21:40:33,666 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43481CC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/09096ac23a743ac6cf91cb1aa7cabaec
+
+WARNING 2022-09-15 21:40:37,708 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43513D3F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/09096ac23a743ac6cf91cb1aa7cabaec
+
+WARNING 2022-09-15 21:40:41,762 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43513C190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/09096ac23a743ac6cf91cb1aa7cabaec
+
+WARNING 2022-09-15 21:40:54,471 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43481E890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/44e4b20412f1cef25bd8da11957f742e
+
+WARNING 2022-09-15 21:40:58,543 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43513C220>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/44e4b20412f1cef25bd8da11957f742e
+
+WARNING 2022-09-15 21:41:02,619 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43513FD60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/44e4b20412f1cef25bd8da11957f742e
+
+WARNING 2022-09-15 21:41:13,310 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B43481E800>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e77278c5b29cdfb45332f6147633c4ad
+
+INFO 2022-09-15 21:41:33,843 [_config.py:<module>:86]
+No custom team name replacements found. You can configure these in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\teamname_replacements.json.
+
+INFO 2022-09-15 21:41:33,852 [_config.py:<module>:156]
+No custom league dict found. You can configure additional leagues in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\league_dict.json.
+
+INFO 2022-09-15 21:41:33,854 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 21:41:34,524 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\a7d58c7bcc3f59b8_chromedriver.exe
+
+INFO 2022-09-15 21:41:36,000 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,019 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 21:41:36,082 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,102 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485185
+
+INFO 2022-09-15 21:41:36,169 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,188 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485186
+
+INFO 2022-09-15 21:41:36,253 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,272 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485187
+
+INFO 2022-09-15 21:41:36,401 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,418 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485188
+
+INFO 2022-09-15 21:41:36,486 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,507 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485189
+
+INFO 2022-09-15 21:41:36,577 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,596 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485190
+
+INFO 2022-09-15 21:41:36,667 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,687 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485191
+
+INFO 2022-09-15 21:41:36,815 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,836 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485192
+
+INFO 2022-09-15 21:41:36,905 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:36,927 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485193
+
+INFO 2022-09-15 21:41:36,995 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:37,014 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485194
+
+INFO 2022-09-15 21:41:37,084 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:37,104 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485195
+
+INFO 2022-09-15 21:41:37,229 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:37,249 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485196
+
+INFO 2022-09-15 21:41:37,318 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:37,336 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485197
+
+INFO 2022-09-15 21:41:37,425 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:37,446 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485198
+
+INFO 2022-09-15 21:41:51,577 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:41:51,596 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485199
+
+INFO 2022-09-15 21:42:37,940 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:42:37,958 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485200
+
+INFO 2022-09-15 21:43:08,700 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:43:08,718 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485201
+
+INFO 2022-09-15 21:43:35,070 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:43:35,089 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485202
+
+INFO 2022-09-15 21:44:18,457 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 21:44:18,475 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485203
+
+ERROR 2022-09-15 21:44:29,213 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 21:44:29,906 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\073fd6cd8900dd79_chromedriver.exe
+
+ERROR 2022-09-15 21:44:43,134 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 21:44:44,151 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\3606baf88df8260d_chromedriver.exe
+
+WARNING 2022-09-15 21:45:15,960 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35CEB97B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4f5d94eaa7d132fab22c1da719dccd31
+
+WARNING 2022-09-15 21:45:20,026 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35EF24280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4f5d94eaa7d132fab22c1da719dccd31
+
+WARNING 2022-09-15 21:45:24,084 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35EF24370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4f5d94eaa7d132fab22c1da719dccd31
+
+ERROR 2022-09-15 21:45:11,928 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 21:45:33,808 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\7076ffe21b6dc81d_chromedriver.exe
+
+ERROR 2022-09-15 21:46:24,970 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 21:46:26,258 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\ea5fd65c261a1718_chromedriver.exe
+
+WARNING 2022-09-15 21:46:54,219 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35CEBB940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53b278f858bbf72824bcaebd5f6094de
+
+WARNING 2022-09-15 21:46:58,298 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35EF26320>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53b278f858bbf72824bcaebd5f6094de
+
+WARNING 2022-09-15 21:47:02,364 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35EF26410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53b278f858bbf72824bcaebd5f6094de
+
+ERROR 2022-09-15 21:46:50,156 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 21:47:11,826 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\5194c20fa819417b_chromedriver.exe
+
+WARNING 2022-09-15 21:47:17,292 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35CEBB520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/28a4ec194b5d110e0970aab6325d241f
+
+WARNING 2022-09-15 21:47:21,364 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35E8AEE30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/28a4ec194b5d110e0970aab6325d241f
+
+WARNING 2022-09-15 21:47:25,413 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35E8AEDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/28a4ec194b5d110e0970aab6325d241f
+
+WARNING 2022-09-15 21:47:38,142 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35EF25600>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0c57daf0c17ec89e457965955d6211a1
+
+WARNING 2022-09-15 21:47:42,216 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35E8AEF20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0c57daf0c17ec89e457965955d6211a1
+
+WARNING 2022-09-15 21:47:46,260 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35E8AE7D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0c57daf0c17ec89e457965955d6211a1
+
+WARNING 2022-09-15 21:47:59,027 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35CEB8520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cabfaa75aa5f6dbf717ed92d77e22fc7
+
+WARNING 2022-09-15 21:48:03,114 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35CEBA7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cabfaa75aa5f6dbf717ed92d77e22fc7
+
+WARNING 2022-09-15 21:48:07,192 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E35CEBA440>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cabfaa75aa5f6dbf717ed92d77e22fc7
+
+INFO 2022-09-15 21:50:39,869 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 21:50:40,470 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\99bc36b1a107332b_chromedriver.exe
+

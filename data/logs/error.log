@@ -75,3 +75,279 @@ Traceback (most recent call last):
     raise WebDriverException(
 selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
 
+ERROR 2022-09-15 21:39:48,987 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0028DF13+2219795]
+	Ordinal0 [0x00222841+1779777]
+	Ordinal0 [0x0013423D+803389]
+	Ordinal0 [0x00130A12+789010]
+	Ordinal0 [0x001278FD+751869]
+	Ordinal0 [0x0012853F+755007]
+	Ordinal0 [0x00127B11+752401]
+	Ordinal0 [0x0012706A+749674]
+	Ordinal0 [0x00125F94+745364]
+	Ordinal0 [0x001263FD+746493]
+	Ordinal0 [0x00135A8E+809614]
+	Ordinal0 [0x0018F87D+1177725]
+	Ordinal0 [0x0017E7FC+1107964]
+	Ordinal0 [0x0018F192+1175954]
+	Ordinal0 [0x0017E616+1107478]
+	Ordinal0 [0x00157F89+950153]
+	Ordinal0 [0x00158F56+954198]
+	GetHandleVerifier [0x00582CB2+3040210]
+	GetHandleVerifier [0x00572BB4+2974420]
+	GetHandleVerifier [0x00326A0A+565546]
+	GetHandleVerifier [0x00325680+560544]
+	Ordinal0 [0x00229A5C+1808988]
+	Ordinal0 [0x0022E3A8+1827752]
+	Ordinal0 [0x0022E495+1827989]
+	Ordinal0 [0x002380A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+	(No symbol) [0x00000000]
+
+ERROR 2022-09-15 21:39:53,346 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00BEDF13+2219795]
+	Ordinal0 [0x00B82841+1779777]
+	Ordinal0 [0x00A9423D+803389]
+	Ordinal0 [0x00A90A12+789010]
+	Ordinal0 [0x00A878FD+751869]
+	Ordinal0 [0x00A8853F+755007]
+	Ordinal0 [0x00A87B11+752401]
+	Ordinal0 [0x00A8706A+749674]
+	Ordinal0 [0x00A85F94+745364]
+	Ordinal0 [0x00A863FD+746493]
+	Ordinal0 [0x00A95A8E+809614]
+	Ordinal0 [0x00AEF87D+1177725]
+	Ordinal0 [0x00ADE7FC+1107964]
+	Ordinal0 [0x00AEF192+1175954]
+	Ordinal0 [0x00ADE616+1107478]
+	Ordinal0 [0x00AB7F89+950153]
+	Ordinal0 [0x00AB8F56+954198]
+	GetHandleVerifier [0x00EE2CB2+3040210]
+	GetHandleVerifier [0x00ED2BB4+2974420]
+	GetHandleVerifier [0x00C86A0A+565546]
+	GetHandleVerifier [0x00C85680+560544]
+	Ordinal0 [0x00B89A5C+1808988]
+	Ordinal0 [0x00B8E3A8+1827752]
+	Ordinal0 [0x00B8E495+1827989]
+	Ordinal0 [0x00B980A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+ERROR 2022-09-15 21:39:57,689 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0042DF13+2219795]
+	Ordinal0 [0x003C2841+1779777]
+	Ordinal0 [0x002D423D+803389]
+	Ordinal0 [0x002D0A12+789010]
+	Ordinal0 [0x002C78FD+751869]
+	Ordinal0 [0x002C853F+755007]
+	Ordinal0 [0x002C7B11+752401]
+	Ordinal0 [0x002C706A+749674]
+	Ordinal0 [0x002C5F94+745364]
+	Ordinal0 [0x002C63FD+746493]
+	Ordinal0 [0x002D5A8E+809614]
+	Ordinal0 [0x0032F87D+1177725]
+	Ordinal0 [0x0031E7FC+1107964]
+	Ordinal0 [0x0032F192+1175954]
+	Ordinal0 [0x0031E616+1107478]
+	Ordinal0 [0x002F7F89+950153]
+	Ordinal0 [0x002F8F56+954198]
+	GetHandleVerifier [0x00722CB2+3040210]
+	GetHandleVerifier [0x00712BB4+2974420]
+	GetHandleVerifier [0x004C6A0A+565546]
+	GetHandleVerifier [0x004C5680+560544]
+	Ordinal0 [0x003C9A5C+1808988]
+	Ordinal0 [0x003CE3A8+1827752]
+	Ordinal0 [0x003CE495+1827989]
+	Ordinal0 [0x003D80A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+ERROR 2022-09-15 21:40:02,029 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00CADF13+2219795]
+	Ordinal0 [0x00C42841+1779777]
+	Ordinal0 [0x00B5423D+803389]
+	Ordinal0 [0x00B50A12+789010]
+	Ordinal0 [0x00B478FD+751869]
+	Ordinal0 [0x00B4853F+755007]
+	Ordinal0 [0x00B47B11+752401]
+	Ordinal0 [0x00B4706A+749674]
+	Ordinal0 [0x00B45F94+745364]
+	Ordinal0 [0x00B463FD+746493]
+	Ordinal0 [0x00B55A8E+809614]
+	Ordinal0 [0x00BAF87D+1177725]
+	Ordinal0 [0x00B9E7FC+1107964]
+	Ordinal0 [0x00BAF192+1175954]
+	Ordinal0 [0x00B9E616+1107478]
+	Ordinal0 [0x00B77F89+950153]
+	Ordinal0 [0x00B78F56+954198]
+	GetHandleVerifier [0x00FA2CB2+3040210]
+	GetHandleVerifier [0x00F92BB4+2974420]
+	GetHandleVerifier [0x00D46A0A+565546]
+	GetHandleVerifier [0x00D45680+560544]
+	Ordinal0 [0x00C49A5C+1808988]
+	Ordinal0 [0x00C4E3A8+1827752]
+	Ordinal0 [0x00C4E495+1827989]
+	Ordinal0 [0x00C580A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+ERROR 2022-09-15 21:40:06,443 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 420, in _download_and_save
+    self._driver.get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 497, in get_wrapped
+    return orig_get(*args, **kwargs)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\undetected_chromedriver\__init__.py", line 535, in get
+    return super().get(url)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 412, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 400, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\liban\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 236, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_PROXY_CONNECTION_FAILED
+  (Session info: headless chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003FDF13+2219795]
+	Ordinal0 [0x00392841+1779777]
+	Ordinal0 [0x002A423D+803389]
+	Ordinal0 [0x002A0A12+789010]
+	Ordinal0 [0x002978FD+751869]
+	Ordinal0 [0x0029853F+755007]
+	Ordinal0 [0x00297B11+752401]
+	Ordinal0 [0x0029706A+749674]
+	Ordinal0 [0x00295F94+745364]
+	Ordinal0 [0x002963FD+746493]
+	Ordinal0 [0x002A5A8E+809614]
+	Ordinal0 [0x002FF87D+1177725]
+	Ordinal0 [0x002EE7FC+1107964]
+	Ordinal0 [0x002FF192+1175954]
+	Ordinal0 [0x002EE616+1107478]
+	Ordinal0 [0x002C7F89+950153]
+	Ordinal0 [0x002C8F56+954198]
+	GetHandleVerifier [0x006F2CB2+3040210]
+	GetHandleVerifier [0x006E2BB4+2974420]
+	GetHandleVerifier [0x00496A0A+565546]
+	GetHandleVerifier [0x00495680+560544]
+	Ordinal0 [0x00399A5C+1808988]
+	Ordinal0 [0x0039E3A8+1827752]
+	Ordinal0 [0x0039E495+1827989]
+	Ordinal0 [0x003A80A4+1867940]
+	BaseThreadInitThunk [0x76D76739+25]
+	RtlGetFullPathName_UEx [0x776E8FD2+1218]
+	RtlGetFullPathName_UEx [0x776E8F9D+1165]
+
+ERROR 2022-09-15 21:44:29,213 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-15 21:44:43,134 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-15 21:45:11,928 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-15 21:46:24,970 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-15 21:46:50,156 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485203/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
