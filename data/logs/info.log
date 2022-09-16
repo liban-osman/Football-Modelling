@@ -1,0 +1,824 @@
+INFO 2022-09-15 16:52:10,789 [_config.py:<module>:86]
+No custom team name replacements found. You can configure these in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\teamname_replacements.json.
+
+INFO 2022-09-15 16:52:10,797 [_config.py:<module>:156]
+No custom league dict found. You can configure additional leagues in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\league_dict.json.
+
+INFO 2022-09-15 16:52:10,800 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 16:52:11,523 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\11963810c8f7605a_chromedriver.exe
+
+INFO 2022-09-15 16:54:11,222 [whoscored.py:read_schedule:325]
+Scraping game schedule from https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/8228/England-Premier-League
+
+INFO 2022-09-15 16:54:11,260 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, May 1 2021
+
+INFO 2022-09-15 16:54:11,523 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, May 2 2021
+
+INFO 2022-09-15 16:54:11,680 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, May 3 2021
+
+INFO 2022-09-15 16:54:11,845 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, May 7 2021
+
+INFO 2022-09-15 16:54:11,928 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, May 8 2021
+
+INFO 2022-09-15 16:54:12,191 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, May 9 2021
+
+INFO 2022-09-15 16:54:12,523 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, May 10 2021
+
+INFO 2022-09-15 16:54:12,604 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, May 11 2021
+
+INFO 2022-09-15 16:54:12,748 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, May 12 2021
+
+INFO 2022-09-15 16:54:12,832 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, May 13 2021
+
+INFO 2022-09-15 16:54:12,980 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, May 14 2021
+
+INFO 2022-09-15 16:54:13,064 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, May 15 2021
+
+INFO 2022-09-15 16:54:13,272 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, May 16 2021
+
+INFO 2022-09-15 16:54:13,571 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, May 18 2021
+
+INFO 2022-09-15 16:54:13,878 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, May 19 2021
+
+INFO 2022-09-15 16:54:14,307 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, May 23 2021
+
+INFO 2022-09-15 16:54:20,112 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Apr 3 2021
+
+INFO 2022-09-15 16:54:20,400 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Apr 4 2021
+
+INFO 2022-09-15 16:54:20,716 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Apr 5 2021
+
+INFO 2022-09-15 16:54:20,873 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Apr 9 2021
+
+INFO 2022-09-15 16:54:20,964 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Apr 10 2021
+
+INFO 2022-09-15 16:54:21,192 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Apr 11 2021
+
+INFO 2022-09-15 16:54:21,488 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Apr 12 2021
+
+INFO 2022-09-15 16:54:21,658 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Apr 16 2021
+
+INFO 2022-09-15 16:54:21,759 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Apr 17 2021
+
+INFO 2022-09-15 16:54:21,924 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Apr 18 2021
+
+INFO 2022-09-15 16:54:22,089 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Apr 19 2021
+
+INFO 2022-09-15 16:54:22,200 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Apr 20 2021
+
+INFO 2022-09-15 16:54:22,292 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Apr 21 2021
+
+INFO 2022-09-15 16:54:22,461 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Apr 22 2021
+
+INFO 2022-09-15 16:54:22,556 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Apr 23 2021
+
+INFO 2022-09-15 16:54:22,653 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Apr 24 2021
+
+INFO 2022-09-15 16:54:22,894 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Apr 25 2021
+
+INFO 2022-09-15 16:54:23,138 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Apr 26 2021
+
+INFO 2022-09-15 16:54:23,237 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Apr 30 2021
+
+INFO 2022-09-15 16:54:28,372 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Mar 1 2021
+
+INFO 2022-09-15 16:54:28,472 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Mar 2 2021
+
+INFO 2022-09-15 16:54:28,575 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Mar 3 2021
+
+INFO 2022-09-15 16:54:28,824 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Mar 4 2021
+
+INFO 2022-09-15 16:54:29,080 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Mar 6 2021
+
+INFO 2022-09-15 16:54:29,407 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Mar 7 2021
+
+INFO 2022-09-15 16:54:29,742 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Mar 8 2021
+
+INFO 2022-09-15 16:54:29,923 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Mar 10 2021
+
+INFO 2022-09-15 16:54:30,030 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Mar 12 2021
+
+INFO 2022-09-15 16:54:30,138 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Mar 13 2021
+
+INFO 2022-09-15 16:54:30,487 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Mar 14 2021
+
+INFO 2022-09-15 16:54:30,835 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Mar 15 2021
+
+INFO 2022-09-15 16:54:30,940 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Mar 19 2021
+
+INFO 2022-09-15 16:54:31,042 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Mar 20 2021
+
+INFO 2022-09-15 16:54:31,148 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Mar 21 2021
+
+INFO 2022-09-15 16:54:36,387 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Feb 2 2021
+
+INFO 2022-09-15 16:54:36,727 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Feb 3 2021
+
+INFO 2022-09-15 16:54:37,171 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Feb 4 2021
+
+INFO 2022-09-15 16:54:37,288 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Feb 6 2021
+
+INFO 2022-09-15 16:54:37,740 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Feb 7 2021
+
+INFO 2022-09-15 16:54:38,082 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Feb 8 2021
+
+INFO 2022-09-15 16:54:38,187 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Feb 13 2021
+
+INFO 2022-09-15 16:54:38,522 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Feb 14 2021
+
+INFO 2022-09-15 16:54:38,860 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Feb 15 2021
+
+INFO 2022-09-15 16:54:39,044 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Feb 17 2021
+
+INFO 2022-09-15 16:54:39,264 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Feb 19 2021
+
+INFO 2022-09-15 16:54:39,364 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Feb 20 2021
+
+INFO 2022-09-15 16:54:39,717 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Feb 21 2021
+
+INFO 2022-09-15 16:54:40,044 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Feb 22 2021
+
+INFO 2022-09-15 16:54:40,146 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Feb 23 2021
+
+INFO 2022-09-15 16:54:40,251 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Feb 27 2021
+
+INFO 2022-09-15 16:54:40,597 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Feb 28 2021
+
+INFO 2022-09-15 16:54:46,052 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Jan 1 2021
+
+INFO 2022-09-15 16:54:46,260 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Jan 2 2021
+
+INFO 2022-09-15 16:54:46,638 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Jan 3 2021
+
+INFO 2022-09-15 16:54:46,828 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Jan 4 2021
+
+INFO 2022-09-15 16:54:46,936 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Jan 12 2021
+
+INFO 2022-09-15 16:54:47,210 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Jan 13 2021
+
+INFO 2022-09-15 16:54:47,412 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Jan 14 2021
+
+INFO 2022-09-15 16:54:47,522 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Jan 16 2021
+
+INFO 2022-09-15 16:54:47,962 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Jan 17 2021
+
+INFO 2022-09-15 16:54:48,241 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Jan 18 2021
+
+INFO 2022-09-15 16:54:48,351 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Jan 19 2021
+
+INFO 2022-09-15 16:54:48,580 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Jan 20 2021
+
+INFO 2022-09-15 16:54:48,780 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Jan 21 2021
+
+INFO 2022-09-15 16:54:48,898 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Jan 23 2021
+
+INFO 2022-09-15 16:54:49,014 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Jan 26 2021
+
+INFO 2022-09-15 16:54:49,383 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Jan 27 2021
+
+INFO 2022-09-15 16:54:49,826 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Jan 28 2021
+
+INFO 2022-09-15 16:54:49,940 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Jan 30 2021
+
+INFO 2022-09-15 16:54:50,517 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Jan 31 2021
+
+INFO 2022-09-15 16:54:55,948 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Dec 5 2020
+
+INFO 2022-09-15 16:54:56,337 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Dec 6 2020
+
+INFO 2022-09-15 16:54:56,768 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Dec 7 2020
+
+INFO 2022-09-15 16:54:56,904 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Dec 11 2020
+
+INFO 2022-09-15 16:54:57,034 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Dec 12 2020
+
+INFO 2022-09-15 16:54:57,473 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Dec 13 2020
+
+INFO 2022-09-15 16:54:58,058 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Dec 15 2020
+
+INFO 2022-09-15 16:54:58,278 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Dec 16 2020
+
+INFO 2022-09-15 16:54:58,906 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Thursday, Dec 17 2020
+
+INFO 2022-09-15 16:54:59,115 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Dec 19 2020
+
+INFO 2022-09-15 16:54:59,520 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Dec 20 2020
+
+INFO 2022-09-15 16:54:59,986 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Dec 21 2020
+
+INFO 2022-09-15 16:55:00,333 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Dec 26 2020
+
+INFO 2022-09-15 16:55:01,118 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Dec 27 2020
+
+INFO 2022-09-15 16:55:01,557 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Dec 28 2020
+
+INFO 2022-09-15 16:55:01,785 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Tuesday, Dec 29 2020
+
+INFO 2022-09-15 16:55:02,297 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Wednesday, Dec 30 2020
+
+INFO 2022-09-15 16:55:07,482 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Nov 1 2020
+
+INFO 2022-09-15 16:55:07,931 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Nov 2 2020
+
+INFO 2022-09-15 16:55:08,164 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Nov 6 2020
+
+INFO 2022-09-15 16:55:08,417 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Nov 7 2020
+
+INFO 2022-09-15 16:55:08,894 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Nov 8 2020
+
+INFO 2022-09-15 16:55:09,396 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Nov 21 2020
+
+INFO 2022-09-15 16:55:09,790 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Nov 22 2020
+
+INFO 2022-09-15 16:55:10,201 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Nov 23 2020
+
+INFO 2022-09-15 16:55:10,447 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Nov 27 2020
+
+INFO 2022-09-15 16:55:10,613 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Nov 28 2020
+
+INFO 2022-09-15 16:55:11,069 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Nov 29 2020
+
+INFO 2022-09-15 16:55:11,385 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Nov 30 2020
+
+INFO 2022-09-15 16:55:16,658 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Oct 3 2020
+
+INFO 2022-09-15 16:55:17,085 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Oct 4 2020
+
+INFO 2022-09-15 16:55:17,686 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Oct 17 2020
+
+INFO 2022-09-15 16:55:18,082 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Oct 18 2020
+
+INFO 2022-09-15 16:55:18,508 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Oct 19 2020
+
+INFO 2022-09-15 16:55:18,738 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Oct 23 2020
+
+INFO 2022-09-15 16:55:18,858 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Oct 24 2020
+
+INFO 2022-09-15 16:55:19,249 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Oct 25 2020
+
+INFO 2022-09-15 16:55:19,560 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Oct 26 2020
+
+INFO 2022-09-15 16:55:19,786 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Friday, Oct 30 2020
+
+INFO 2022-09-15 16:55:19,909 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Oct 31 2020
+
+INFO 2022-09-15 16:55:25,268 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Sep 12 2020
+
+INFO 2022-09-15 16:55:25,671 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Sep 13 2020
+
+INFO 2022-09-15 16:55:25,886 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Sep 14 2020
+
+INFO 2022-09-15 16:55:26,102 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Sep 19 2020
+
+INFO 2022-09-15 16:55:26,515 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Sep 20 2020
+
+INFO 2022-09-15 16:55:26,927 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Sep 21 2020
+
+INFO 2022-09-15 16:55:27,151 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Saturday, Sep 26 2020
+
+INFO 2022-09-15 16:55:27,579 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Sunday, Sep 27 2020
+
+INFO 2022-09-15 16:55:27,960 [whoscored.py:_parse_schedule_page:226]
+Scraping game schedule for Monday, Sep 28 2020
+
+INFO 2022-09-15 16:55:28,170 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 16:55:52,006 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 16:55:52,026 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485185
+
+INFO 2022-09-15 16:56:18,592 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 16:56:18,611 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485186
+
+ERROR 2022-09-15 16:56:29,182 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485186/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 16:56:29,841 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\a7cddd992107725c_chromedriver.exe
+
+ERROR 2022-09-15 16:56:46,046 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485186/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 16:56:47,038 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\7419ba5afe6af4e4_chromedriver.exe
+
+WARNING 2022-09-15 16:57:07,344 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A19FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60c3883b7391c650b0e3acb4afdbfea2
+
+WARNING 2022-09-15 16:57:11,408 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1B910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60c3883b7391c650b0e3acb4afdbfea2
+
+WARNING 2022-09-15 16:57:15,482 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1BE20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60c3883b7391c650b0e3acb4afdbfea2
+
+ERROR 2022-09-15 16:57:03,298 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485186/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 16:57:24,916 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\584a26c8c49f885c_chromedriver.exe
+
+WARNING 2022-09-15 16:57:47,780 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A18AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7276c0d8acd36e4a7daf10af8573d2c7
+
+WARNING 2022-09-15 16:57:51,822 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1B700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7276c0d8acd36e4a7daf10af8573d2c7
+
+WARNING 2022-09-15 16:57:55,874 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1B3D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7276c0d8acd36e4a7daf10af8573d2c7
+
+INFO 2022-09-15 16:58:04,721 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 16:58:04,740 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485187
+
+WARNING 2022-09-15 16:58:36,698 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412962DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/191fe69541a070775a33cc8d3bba2d7b
+
+WARNING 2022-09-15 16:58:40,764 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A18C70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/191fe69541a070775a33cc8d3bba2d7b
+
+WARNING 2022-09-15 16:58:44,824 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412963220>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/191fe69541a070775a33cc8d3bba2d7b
+
+INFO 2022-09-15 16:58:53,526 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 16:58:53,545 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485188
+
+INFO 2022-09-15 16:59:29,129 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 16:59:29,147 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485189
+
+ERROR 2022-09-15 16:59:43,742 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485189/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 16:59:44,365 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\35030324bb9c72a2_chromedriver.exe
+
+WARNING 2022-09-15 17:00:10,449 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1B6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3567a91ec32cd545fb22f4b752d9bcd6
+
+WARNING 2022-09-15 17:00:14,492 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1A950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3567a91ec32cd545fb22f4b752d9bcd6
+
+WARNING 2022-09-15 17:00:18,545 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A19930>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3567a91ec32cd545fb22f4b752d9bcd6
+
+INFO 2022-09-15 17:00:27,262 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:00:27,279 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485190
+
+ERROR 2022-09-15 17:00:40,757 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485190/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:00:41,374 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\78b5dec48348cbd1_chromedriver.exe
+
+INFO 2022-09-15 17:01:35,935 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:01:35,955 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485191
+
+INFO 2022-09-15 17:01:51,995 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:01:52,015 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485192
+
+WARNING 2022-09-15 17:02:08,965 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A180D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ac3af2b540b328f73c55c907ac9f323a
+
+WARNING 2022-09-15 17:02:13,037 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A18460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ac3af2b540b328f73c55c907ac9f323a
+
+WARNING 2022-09-15 17:02:17,098 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1A680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ac3af2b540b328f73c55c907ac9f323a
+
+INFO 2022-09-15 17:02:25,917 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:02:25,937 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485193
+
+ERROR 2022-09-15 17:02:41,900 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485193/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:02:42,628 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\a23f818b56a25fdc_chromedriver.exe
+
+INFO 2022-09-15 17:03:54,630 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:03:54,650 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485194
+
+WARNING 2022-09-15 17:04:30,468 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1B6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2308abec767247f912d25b5178bdd3e7
+
+WARNING 2022-09-15 17:04:34,507 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1A680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2308abec767247f912d25b5178bdd3e7
+
+WARNING 2022-09-15 17:04:38,561 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A18F40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2308abec767247f912d25b5178bdd3e7
+
+INFO 2022-09-15 17:04:47,406 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:04:47,426 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485195
+
+INFO 2022-09-15 17:05:32,283 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:05:32,302 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485196
+
+INFO 2022-09-15 17:05:58,681 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:05:58,700 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485197
+
+INFO 2022-09-15 17:06:15,583 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:06:15,603 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485198
+
+ERROR 2022-09-15 17:06:23,421 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:06:24,115 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\0f458daaf151e1ee_chromedriver.exe
+
+ERROR 2022-09-15 17:06:34,910 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:06:35,628 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\11f80ae12b244e3e_chromedriver.exe
+
+ERROR 2022-09-15 17:06:47,338 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:06:48,031 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\075975bab77cf4bb_chromedriver.exe
+
+WARNING 2022-09-15 17:07:08,066 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A19030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae060db3aff51b331f893d6a3c308eed
+
+WARNING 2022-09-15 17:07:12,116 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A19690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae060db3aff51b331f893d6a3c308eed
+
+WARNING 2022-09-15 17:07:16,166 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1A110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae060db3aff51b331f893d6a3c308eed
+
+WARNING 2022-09-15 17:07:28,896 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1AF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c48af620b266500d8974e3455dea2859
+
+WARNING 2022-09-15 17:07:32,972 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A18FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c48af620b266500d8974e3455dea2859
+
+WARNING 2022-09-15 17:07:37,056 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A19390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c48af620b266500d8974e3455dea2859
+
+ERROR 2022-09-15 17:07:03,983 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:07:46,530 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\ad46ba129f7062c8_chromedriver.exe
+
+ERROR 2022-09-15 17:07:57,937 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485198/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-15 17:07:58,905 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\bb54b88f1fcce4f8_chromedriver.exe
+
+WARNING 2022-09-15 17:08:04,363 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A19CC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8f888544b416ec1e31976a91f6e544c5
+
+WARNING 2022-09-15 17:08:08,424 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1AFE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8f888544b416ec1e31976a91f6e544c5
+
+WARNING 2022-09-15 17:08:12,477 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A18EB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8f888544b416ec1e31976a91f6e544c5
+
+WARNING 2022-09-15 17:08:25,252 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A181F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/388744d2f4ab779e6dd44ad92f060e61
+
+WARNING 2022-09-15 17:08:29,305 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B414D34910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/388744d2f4ab779e6dd44ad92f060e61
+
+WARNING 2022-09-15 17:08:33,353 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B414D344C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/388744d2f4ab779e6dd44ad92f060e61
+
+WARNING 2022-09-15 17:08:46,123 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B412A1BA60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6bd03f682a92ae0281ff44db7831dd42
+
+WARNING 2022-09-15 17:08:50,166 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B4145BD180>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6bd03f682a92ae0281ff44db7831dd42
+
+WARNING 2022-09-15 17:08:54,237 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B4145BCF70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6bd03f682a92ae0281ff44db7831dd42
+
+INFO 2022-09-15 17:21:25,333 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 17:21:25,935 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\3587eeead11bebd7_chromedriver.exe
+
+INFO 2022-09-15 17:21:27,442 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:21:27,462 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 17:21:54,968 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 17:21:55,563 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\3aa0133e3fdf0593_chromedriver.exe
+
+INFO 2022-09-15 17:22:46,341 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 17:22:47,023 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\ddf42c1b0d88e4d6_chromedriver.exe
+
+INFO 2022-09-15 17:22:51,127 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:22:51,147 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 17:24:06,083 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 17:24:06,720 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\f26ad0d5fbb174b3_chromedriver.exe
+
+INFO 2022-09-15 17:24:08,166 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:24:08,186 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 17:26:00,315 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 17:26:00,334 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 18:44:39,084 [_config.py:<module>:86]
+No custom team name replacements found. You can configure these in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\teamname_replacements.json.
+
+INFO 2022-09-15 18:44:39,093 [_config.py:<module>:156]
+No custom league dict found. You can configure additional leagues in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\league_dict.json.
+
+INFO 2022-09-15 18:44:44,917 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 18:44:46,296 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\2f694a24aeb06f06_chromedriver.exe
+
+INFO 2022-09-15 18:44:47,872 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 18:44:47,899 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 18:45:18,796 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 18:45:19,471 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\1786f42a4a35ad47_chromedriver.exe
+
+INFO 2022-09-15 18:45:20,908 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 18:45:20,929 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 18:45:21,064 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 18:45:21,084 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 18:48:55,712 [_config.py:<module>:86]
+No custom team name replacements found. You can configure these in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\teamname_replacements.json.
+
+INFO 2022-09-15 18:48:55,717 [_config.py:<module>:156]
+No custom league dict found. You can configure additional leagues in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\league_dict.json.
+
+INFO 2022-09-15 18:48:56,195 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-15 18:48:56,863 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\8e919563626386dc_chromedriver.exe
+
+INFO 2022-09-15 18:48:58,303 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 18:48:58,327 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
+INFO 2022-09-15 18:48:58,465 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-15 18:48:58,485 [whoscored.py:read_events:584]
+[1/1] Retrieving game with id=1485184
+
