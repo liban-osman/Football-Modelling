@@ -554,3 +554,269 @@ Traceback (most recent call last):
     raise WebDriverException(
 selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
 
+ERROR 2022-09-16 18:15:53,931 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:16:10,880 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:16:23,057 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:16:35,011 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:17:30,632 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:23:45,644 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485412/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:24:15,907 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:24:30,565 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:24:42,175 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:24:58,117 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 18:25:09,580 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:07:16,641 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485560/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:07:29,466 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485560/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:11:01,544 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:11:27,964 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:12:36,141 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:13:13,199 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:15:53,666 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:16:06,462 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:16:16,570 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:16:26,425 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:17:19,194 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:56:15,920 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485428/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:58:04,296 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:58:16,139 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:58:26,367 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:58:38,946 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 19:59:32,148 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:02:22,222 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:02:54,944 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:03:07,293 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:03:20,340 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:03:33,059 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:05:35,058 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:05:49,978 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:06:04,286 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:06:18,394 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+ERROR 2022-09-16 20:06:33,644 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+

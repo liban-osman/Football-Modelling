@@ -2126,3 +2126,941 @@ Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) a
 WARNING 2022-09-16 18:13:29,638 [connectionpool.py:urlopen:812]
 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E363F6B760>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3922480b80c6ac50e7b5adccce9ceefe
 
+INFO 2022-09-16 18:13:33,535 [_config.py:<module>:86]
+No custom team name replacements found. You can configure these in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\teamname_replacements.json.
+
+INFO 2022-09-16 18:13:33,542 [_config.py:<module>:156]
+No custom league dict found. You can configure additional leagues in C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\config\league_dict.json.
+
+INFO 2022-09-16 18:13:33,545 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 18:13:34,178 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\68617309dec7aedc_chromedriver.exe
+
+INFO 2022-09-16 18:13:35,632 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 18:13:35,655 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485192
+
+INFO 2022-09-16 18:13:35,684 [whoscored.py:read_events:584]
+[2/380] Retrieving game with id=1485556
+
+INFO 2022-09-16 18:15:21,710 [whoscored.py:read_events:584]
+[3/380] Retrieving game with id=1485465
+
+INFO 2022-09-16 18:15:46,443 [whoscored.py:read_events:584]
+[4/380] Retrieving game with id=1485471
+
+INFO 2022-09-16 18:15:46,473 [whoscored.py:read_events:584]
+[5/380] Retrieving game with id=1485189
+
+INFO 2022-09-16 18:15:46,507 [whoscored.py:read_events:584]
+[6/380] Retrieving game with id=1485407
+
+ERROR 2022-09-16 18:15:53,931 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:15:56,811 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\6b907a943f6876fb_chromedriver.exe
+
+ERROR 2022-09-16 18:16:10,880 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:16:11,656 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\e03ab180e3c3810d_chromedriver.exe
+
+ERROR 2022-09-16 18:16:23,057 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:16:23,772 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\51498ab334af263b_chromedriver.exe
+
+WARNING 2022-09-16 18:16:39,041 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF5B70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c29198197948a29755e5f55ae4c4beb9
+
+WARNING 2022-09-16 18:16:43,117 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF7550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c29198197948a29755e5f55ae4c4beb9
+
+WARNING 2022-09-16 18:16:47,181 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF76A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c29198197948a29755e5f55ae4c4beb9
+
+WARNING 2022-09-16 18:16:59,878 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF5C30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2739dadc9644b4ab470c117b7386e366
+
+WARNING 2022-09-16 18:17:03,916 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF57B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2739dadc9644b4ab470c117b7386e366
+
+WARNING 2022-09-16 18:17:07,968 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF7B20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2739dadc9644b4ab470c117b7386e366
+
+ERROR 2022-09-16 18:16:35,011 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:17:17,334 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\d0d677fe2e11a317_chromedriver.exe
+
+ERROR 2022-09-16 18:17:30,632 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485407/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:17:31,455 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\b40dd4e248606c16_chromedriver.exe
+
+WARNING 2022-09-16 18:17:37,057 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF7490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fe1b1496bf7537e2e18bae346ec4d44c
+
+WARNING 2022-09-16 18:17:41,112 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF79D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fe1b1496bf7537e2e18bae346ec4d44c
+
+WARNING 2022-09-16 18:17:45,202 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF5240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fe1b1496bf7537e2e18bae346ec4d44c
+
+WARNING 2022-09-16 18:17:57,950 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF6050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4f5718455beed2086f2a87a9397a1325
+
+WARNING 2022-09-16 18:18:02,018 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212853543D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4f5718455beed2086f2a87a9397a1325
+
+WARNING 2022-09-16 18:18:06,077 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021285354040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4f5718455beed2086f2a87a9397a1325
+
+WARNING 2022-09-16 18:18:18,892 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282ECB820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae000253fe92a449759f4e66ad4aca7c
+
+WARNING 2022-09-16 18:18:22,942 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128619E9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae000253fe92a449759f4e66ad4aca7c
+
+WARNING 2022-09-16 18:18:26,990 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128619EBC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae000253fe92a449759f4e66ad4aca7c
+
+INFO 2022-09-16 18:22:20,515 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 18:22:21,155 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\ddf2ee4f62c78a8e_chromedriver.exe
+
+INFO 2022-09-16 18:22:22,705 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 18:22:22,742 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485496
+
+INFO 2022-09-16 18:23:13,365 [whoscored.py:read_events:584]
+[2/380] Retrieving game with id=1485414
+
+INFO 2022-09-16 18:23:33,472 [whoscored.py:read_events:584]
+[3/380] Retrieving game with id=1485412
+
+ERROR 2022-09-16 18:23:45,644 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485412/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:23:46,361 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\eafe6654ed106381_chromedriver.exe
+
+INFO 2022-09-16 18:24:04,849 [whoscored.py:read_events:584]
+[4/380] Retrieving game with id=1485241
+
+ERROR 2022-09-16 18:24:15,907 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:24:16,594 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\10f0d2cbedd9d34d_chromedriver.exe
+
+ERROR 2022-09-16 18:24:30,565 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:24:31,312 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\584e244e1ed54ade_chromedriver.exe
+
+ERROR 2022-09-16 18:24:42,175 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:24:43,110 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\2aa76a363ffb913f_chromedriver.exe
+
+ERROR 2022-09-16 18:24:58,117 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:24:58,891 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\ad0066921bbd4724_chromedriver.exe
+
+WARNING 2022-09-16 18:25:13,657 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869DF9A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68d64aa4100e5b52567355e58c309308
+
+WARNING 2022-09-16 18:25:17,720 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021287432740>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68d64aa4100e5b52567355e58c309308
+
+WARNING 2022-09-16 18:25:21,766 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021287432440>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68d64aa4100e5b52567355e58c309308
+
+WARNING 2022-09-16 18:25:34,482 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869DEC80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b22e32bd0172f93bde9e0685b32c4290
+
+WARNING 2022-09-16 18:25:38,566 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869DF700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b22e32bd0172f93bde9e0685b32c4290
+
+WARNING 2022-09-16 18:25:42,644 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869E85E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b22e32bd0172f93bde9e0685b32c4290
+
+WARNING 2022-09-16 18:25:55,374 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869DEE60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e7808a122d71efdb46f51d247ab51167
+
+WARNING 2022-09-16 18:25:59,436 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746B250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e7808a122d71efdb46f51d247ab51167
+
+WARNING 2022-09-16 18:26:03,482 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746A470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e7808a122d71efdb46f51d247ab51167
+
+ERROR 2022-09-16 18:25:09,580 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485241/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 18:26:12,830 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\a2193c3979480760_chromedriver.exe
+
+INFO 2022-09-16 19:04:44,935 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 19:04:45,840 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\a91c61e17a9ce8fa_chromedriver.exe
+
+WARNING 2022-09-16 19:04:51,757 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021286145C90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d86d28f9d1d0a07f9c8e5c48ab4a93ef
+
+WARNING 2022-09-16 19:04:55,834 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746D5A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d86d28f9d1d0a07f9c8e5c48ab4a93ef
+
+WARNING 2022-09-16 19:04:59,890 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746D090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d86d28f9d1d0a07f9c8e5c48ab4a93ef
+
+INFO 2022-09-16 19:05:08,695 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 19:05:08,722 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485385
+
+INFO 2022-09-16 19:05:08,754 [whoscored.py:read_events:584]
+[2/380] Retrieving game with id=1485541
+
+WARNING 2022-09-16 19:05:48,718 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746AE60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6529b6b291d53044c1aad4fa6835d828
+
+WARNING 2022-09-16 19:05:52,765 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021285377A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6529b6b291d53044c1aad4fa6835d828
+
+WARNING 2022-09-16 19:05:56,855 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021286144FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6529b6b291d53044c1aad4fa6835d828
+
+WARNING 2022-09-16 19:06:11,680 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869D45B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3b7aaf289ff31b6830a23d2618f22d19
+
+WARNING 2022-09-16 19:06:15,735 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869D6860>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3b7aaf289ff31b6830a23d2618f22d19
+
+WARNING 2022-09-16 19:06:19,792 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF57B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3b7aaf289ff31b6830a23d2618f22d19
+
+INFO 2022-09-16 19:06:28,627 [whoscored.py:read_events:584]
+[3/380] Retrieving game with id=1485415
+
+INFO 2022-09-16 19:07:08,487 [whoscored.py:read_events:584]
+[4/380] Retrieving game with id=1485560
+
+ERROR 2022-09-16 19:07:16,641 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485560/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:07:17,257 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\e0c8c74621ad2c37_chromedriver.exe
+
+ERROR 2022-09-16 19:07:29,466 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485560/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:07:30,223 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\b738ce45bc4f2366_chromedriver.exe
+
+WARNING 2022-09-16 19:08:07,293 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212861440D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0015a0c2d01dbbec4b267e58f2afe40
+
+WARNING 2022-09-16 19:08:11,371 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282ECB0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0015a0c2d01dbbec4b267e58f2afe40
+
+WARNING 2022-09-16 19:08:15,437 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282ECBBB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0015a0c2d01dbbec4b267e58f2afe40
+
+INFO 2022-09-16 19:08:24,240 [whoscored.py:read_events:584]
+[5/380] Retrieving game with id=1485289
+
+WARNING 2022-09-16 19:09:00,563 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746AEF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95ef1fea3a88089681f1c0e6b9831666
+
+WARNING 2022-09-16 19:09:04,612 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282ECBA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95ef1fea3a88089681f1c0e6b9831666
+
+WARNING 2022-09-16 19:09:08,693 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212874322C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95ef1fea3a88089681f1c0e6b9831666
+
+INFO 2022-09-16 19:09:17,398 [whoscored.py:read_events:584]
+[6/380] Retrieving game with id=1485528
+
+INFO 2022-09-16 19:09:55,545 [whoscored.py:read_events:584]
+[7/380] Retrieving game with id=1485246
+
+INFO 2022-09-16 19:10:12,692 [whoscored.py:read_events:584]
+[8/380] Retrieving game with id=1485500
+
+INFO 2022-09-16 19:10:28,054 [whoscored.py:read_events:584]
+[9/380] Retrieving game with id=1485473
+
+INFO 2022-09-16 19:10:42,904 [whoscored.py:read_events:584]
+[10/380] Retrieving game with id=1485194
+
+INFO 2022-09-16 19:10:42,940 [whoscored.py:read_events:584]
+[11/380] Retrieving game with id=1485523
+
+ERROR 2022-09-16 19:11:01,544 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:11:02,233 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\cd3e56bada3a6834_chromedriver.exe
+
+ERROR 2022-09-16 19:11:27,964 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:11:28,828 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\9181a32b816b19a3_chromedriver.exe
+
+ERROR 2022-09-16 19:12:36,141 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:12:37,026 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\69c466da8cfb594a_chromedriver.exe
+
+WARNING 2022-09-16 19:13:17,251 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746A5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3711ed8aa4bc0db7283e90240a84d361
+
+WARNING 2022-09-16 19:13:21,316 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF57B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3711ed8aa4bc0db7283e90240a84d361
+
+WARNING 2022-09-16 19:13:25,371 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF6980>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3711ed8aa4bc0db7283e90240a84d361
+
+WARNING 2022-09-16 19:13:38,081 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746AB30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8a9803de43512b37115d7119097c981c
+
+WARNING 2022-09-16 19:13:42,158 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF4A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8a9803de43512b37115d7119097c981c
+
+WARNING 2022-09-16 19:13:46,197 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF5F00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8a9803de43512b37115d7119097c981c
+
+ERROR 2022-09-16 19:13:13,199 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485523/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:13:55,544 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\30dd9fa34beeb3f5_chromedriver.exe
+
+WARNING 2022-09-16 19:14:52,293 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212861467A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9ccf0d6c566af22526dc1bb39e87cc7c
+
+WARNING 2022-09-16 19:14:56,376 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869D4100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9ccf0d6c566af22526dc1bb39e87cc7c
+
+WARNING 2022-09-16 19:15:00,448 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746BD30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9ccf0d6c566af22526dc1bb39e87cc7c
+
+INFO 2022-09-16 19:15:09,285 [whoscored.py:read_events:584]
+[12/380] Retrieving game with id=1485281
+
+INFO 2022-09-16 19:15:09,317 [whoscored.py:read_events:584]
+[13/380] Retrieving game with id=1485298
+
+INFO 2022-09-16 19:15:09,347 [whoscored.py:read_events:584]
+[14/380] Retrieving game with id=1485188
+
+WARNING 2022-09-16 19:15:13,571 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128534A9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be589c9eb60ec0135f2ab20bee37c0ea
+
+WARNING 2022-09-16 19:15:17,637 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746AB90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be589c9eb60ec0135f2ab20bee37c0ea
+
+WARNING 2022-09-16 19:15:21,708 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746AEC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be589c9eb60ec0135f2ab20bee37c0ea
+
+INFO 2022-09-16 19:15:30,404 [whoscored.py:read_events:584]
+[15/380] Retrieving game with id=1485318
+
+INFO 2022-09-16 19:15:30,435 [whoscored.py:read_events:584]
+[16/380] Retrieving game with id=1485534
+
+INFO 2022-09-16 19:15:30,465 [whoscored.py:read_events:584]
+[17/380] Retrieving game with id=1485510
+
+INFO 2022-09-16 19:15:46,092 [whoscored.py:read_events:584]
+[18/380] Retrieving game with id=1485209
+
+ERROR 2022-09-16 19:15:53,666 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:15:54,220 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\e43bb6e80df43c19_chromedriver.exe
+
+ERROR 2022-09-16 19:16:06,462 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:16:07,331 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\0260fee79b3d86d7_chromedriver.exe
+
+ERROR 2022-09-16 19:16:16,570 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:16:17,284 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\c747fe3d9ee7edee_chromedriver.exe
+
+WARNING 2022-09-16 19:16:30,479 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746A500>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c41d7a8a5bdd5db620755c142c013f1
+
+WARNING 2022-09-16 19:16:34,525 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C2E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c41d7a8a5bdd5db620755c142c013f1
+
+WARNING 2022-09-16 19:16:38,574 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c41d7a8a5bdd5db620755c142c013f1
+
+WARNING 2022-09-16 19:16:51,294 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF4070>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/714bde32d05f8e426047ca7c69ad58ee
+
+WARNING 2022-09-16 19:16:55,381 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746D300>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/714bde32d05f8e426047ca7c69ad58ee
+
+WARNING 2022-09-16 19:16:59,452 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C760>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/714bde32d05f8e426047ca7c69ad58ee
+
+ERROR 2022-09-16 19:16:26,425 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:17:08,889 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\03fada71205d037a_chromedriver.exe
+
+ERROR 2022-09-16 19:17:19,194 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485209/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:17:20,052 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\47d4b287b7c6211d_chromedriver.exe
+
+WARNING 2022-09-16 19:17:25,514 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF4070>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ab3bff2b4af0ef8adf1d0e7959be7098
+
+WARNING 2022-09-16 19:17:29,578 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746E3B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ab3bff2b4af0ef8adf1d0e7959be7098
+
+WARNING 2022-09-16 19:17:33,634 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746DC60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ab3bff2b4af0ef8adf1d0e7959be7098
+
+INFO 2022-09-16 19:51:29,200 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 19:51:29,933 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\585868cf1f5fac40_chromedriver.exe
+
+INFO 2022-09-16 19:51:31,370 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 19:51:31,390 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485357
+
+WARNING 2022-09-16 19:51:35,483 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF44F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2fa9f7d83d445318944c1101426191fd
+
+WARNING 2022-09-16 19:51:39,555 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212874B2290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2fa9f7d83d445318944c1101426191fd
+
+WARNING 2022-09-16 19:51:43,605 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212874B1E40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2fa9f7d83d445318944c1101426191fd
+
+INFO 2022-09-16 19:51:52,260 [whoscored.py:read_events:584]
+[2/380] Retrieving game with id=1485365
+
+INFO 2022-09-16 19:51:52,294 [whoscored.py:read_events:584]
+[3/380] Retrieving game with id=1485486
+
+INFO 2022-09-16 19:52:35,927 [whoscored.py:read_events:584]
+[4/380] Retrieving game with id=1485457
+
+WARNING 2022-09-16 19:54:46,786 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869D7CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae95c6794881d2d6c848567a6a434821
+
+WARNING 2022-09-16 19:54:50,843 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021287432350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae95c6794881d2d6c848567a6a434821
+
+WARNING 2022-09-16 19:54:54,929 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869D4640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ae95c6794881d2d6c848567a6a434821
+
+INFO 2022-09-16 19:55:03,721 [whoscored.py:read_events:584]
+[5/380] Retrieving game with id=1485557
+
+INFO 2022-09-16 19:55:31,645 [whoscored.py:read_events:584]
+[6/380] Retrieving game with id=1485447
+
+INFO 2022-09-16 19:55:31,679 [whoscored.py:read_events:584]
+[7/380] Retrieving game with id=1485299
+
+INFO 2022-09-16 19:55:47,338 [whoscored.py:read_events:584]
+[8/380] Retrieving game with id=1485561
+
+INFO 2022-09-16 19:56:04,679 [whoscored.py:read_events:584]
+[9/380] Retrieving game with id=1485523
+
+INFO 2022-09-16 19:56:04,714 [whoscored.py:read_events:584]
+[10/380] Retrieving game with id=1485428
+
+ERROR 2022-09-16 19:56:15,920 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485428/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:56:16,635 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\64e32383a57a0291_chromedriver.exe
+
+WARNING 2022-09-16 19:57:18,237 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746B0A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3f632253dce052e5823d513f5649e946
+
+WARNING 2022-09-16 19:57:22,326 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C670>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3f632253dce052e5823d513f5649e946
+
+WARNING 2022-09-16 19:57:26,376 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3f632253dce052e5823d513f5649e946
+
+INFO 2022-09-16 19:57:35,036 [whoscored.py:read_events:584]
+[11/380] Retrieving game with id=1485331
+
+INFO 2022-09-16 19:57:35,063 [whoscored.py:read_events:584]
+[12/380] Retrieving game with id=1485226
+
+INFO 2022-09-16 19:57:35,091 [whoscored.py:read_events:584]
+[13/380] Retrieving game with id=1485397
+
+INFO 2022-09-16 19:57:35,121 [whoscored.py:read_events:584]
+[14/380] Retrieving game with id=1485351
+
+INFO 2022-09-16 19:57:35,150 [whoscored.py:read_events:584]
+[15/380] Retrieving game with id=1485236
+
+INFO 2022-09-16 19:57:56,031 [whoscored.py:read_events:584]
+[16/380] Retrieving game with id=1485559
+
+INFO 2022-09-16 19:57:56,059 [whoscored.py:read_events:584]
+[17/380] Retrieving game with id=1485322
+
+INFO 2022-09-16 19:57:56,086 [whoscored.py:read_events:584]
+[18/380] Retrieving game with id=1485218
+
+INFO 2022-09-16 19:57:56,113 [whoscored.py:read_events:584]
+[19/380] Retrieving game with id=1485197
+
+INFO 2022-09-16 19:57:56,368 [whoscored.py:read_events:584]
+[20/380] Retrieving game with id=1485353
+
+INFO 2022-09-16 19:57:56,395 [whoscored.py:read_events:584]
+[21/380] Retrieving game with id=1485563
+
+ERROR 2022-09-16 19:58:04,296 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:58:05,024 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\6c39c689cf73774d_chromedriver.exe
+
+ERROR 2022-09-16 19:58:16,139 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:58:17,009 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\4db54f2b99ee5f42_chromedriver.exe
+
+ERROR 2022-09-16 19:58:26,367 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:58:27,209 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\653807f8fdce7e3b_chromedriver.exe
+
+WARNING 2022-09-16 19:58:42,996 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C220>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/85c6ec1b6cd0f77dd990fc04e39e3c04
+
+WARNING 2022-09-16 19:58:47,049 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF4940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/85c6ec1b6cd0f77dd990fc04e39e3c04
+
+WARNING 2022-09-16 19:58:51,085 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF46D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/85c6ec1b6cd0f77dd990fc04e39e3c04
+
+WARNING 2022-09-16 19:59:03,788 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746E320>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8e4a3a553a650f832a094bfde084b915
+
+WARNING 2022-09-16 19:59:07,849 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746C700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8e4a3a553a650f832a094bfde084b915
+
+WARNING 2022-09-16 19:59:11,950 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746B0A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8e4a3a553a650f832a094bfde084b915
+
+ERROR 2022-09-16 19:58:38,946 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:59:21,341 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\d872a9ff6a3f7f72_chromedriver.exe
+
+ERROR 2022-09-16 19:59:32,148 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485563/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 19:59:32,985 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\8e0a4d5b46660df4_chromedriver.exe
+
+WARNING 2022-09-16 19:59:38,471 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021282FF5150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5a53cfa17f0ee5b8446213c25279a03
+
+WARNING 2022-09-16 19:59:42,550 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212874B2AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5a53cfa17f0ee5b8446213c25279a03
+
+WARNING 2022-09-16 19:59:46,627 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212874B2A10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d5a53cfa17f0ee5b8446213c25279a03
+
+INFO 2022-09-16 20:02:10,787 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 20:02:11,386 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\acda6d9efcd78e3d_chromedriver.exe
+
+INFO 2022-09-16 20:02:12,850 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 20:02:12,874 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485276
+
+WARNING 2022-09-16 20:02:26,289 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212869DE380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/af5a1ae469b7f4394e82cea859d4b59e
+
+WARNING 2022-09-16 20:02:30,339 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E4190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/af5a1ae469b7f4394e82cea859d4b59e
+
+WARNING 2022-09-16 20:02:34,395 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E4280>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/af5a1ae469b7f4394e82cea859d4b59e
+
+ERROR 2022-09-16 20:02:22,222 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:02:43,872 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\d0a82600310cd06d_chromedriver.exe
+
+ERROR 2022-09-16 20:02:54,944 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:02:55,706 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\d93d70c0939d1879_chromedriver.exe
+
+ERROR 2022-09-16 20:03:07,293 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:03:08,016 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\3fc3ce0a05010392_chromedriver.exe
+
+ERROR 2022-09-16 20:03:20,340 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:03:21,173 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\0d71bec25bf36fcb_chromedriver.exe
+
+WARNING 2022-09-16 20:03:37,114 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746AA10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4333999a0969871d3f46ec55b5a2d3dc
+
+WARNING 2022-09-16 20:03:41,180 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E5AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4333999a0969871d3f46ec55b5a2d3dc
+
+WARNING 2022-09-16 20:03:45,240 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E5BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4333999a0969871d3f46ec55b5a2d3dc
+
+WARNING 2022-09-16 20:03:57,972 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746CC70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30d8c7fcc0dcc7ba8a507551fc8d48ac
+
+WARNING 2022-09-16 20:04:02,041 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E5F60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30d8c7fcc0dcc7ba8a507551fc8d48ac
+
+WARNING 2022-09-16 20:04:06,102 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E6050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30d8c7fcc0dcc7ba8a507551fc8d48ac
+
+WARNING 2022-09-16 20:04:18,808 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002128746D030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5bd85e31c7c0e88cb05682470221aff
+
+WARNING 2022-09-16 20:04:22,863 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E7310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5bd85e31c7c0e88cb05682470221aff
+
+WARNING 2022-09-16 20:04:26,931 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E6D40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a5bd85e31c7c0e88cb05682470221aff
+
+ERROR 2022-09-16 20:03:33,059 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485276/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:04:36,343 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\cafe5180c423010d_chromedriver.exe
+
+INFO 2022-09-16 20:05:21,591 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 20:05:22,173 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\7ec011a213331e06_chromedriver.exe
+
+INFO 2022-09-16 20:05:23,636 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 20:05:23,656 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485204
+
+ERROR 2022-09-16 20:05:35,058 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 1 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:05:35,866 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\52afc4f3fba1dbc1_chromedriver.exe
+
+ERROR 2022-09-16 20:05:49,978 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 2 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:05:50,621 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\2dc4031ed6266c8f_chromedriver.exe
+
+ERROR 2022-09-16 20:06:04,286 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 3 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:06:04,925 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\17489659c6aa7f06_chromedriver.exe
+
+ERROR 2022-09-16 20:06:18,394 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 4 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:06:19,072 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\4e1a3ef3d22185a4_chromedriver.exe
+
+ERROR 2022-09-16 20:06:33,644 [_common.py:_download_and_save:440]
+Error while scraping https://www.whoscored.com/Matches/1485204/Live. Retrying... (attempt 5 of 5).
+Traceback (most recent call last):
+  File "c:\Users\liban\OneDrive\Desktop\soccerdata-master\soccerdata\_common.py", line 423, in _download_and_save
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: Your IP is blocked. Use tor or a proxy to continue scraping.
+
+INFO 2022-09-16 20:06:34,229 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\d42dc5cb3e8b6f31_chromedriver.exe
+
+WARNING 2022-09-16 20:06:39,697 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E41F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/778b043fe8c0e059fe0c384f5bef95f4
+
+WARNING 2022-09-16 20:06:43,753 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F35B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/778b043fe8c0e059fe0c384f5bef95f4
+
+WARNING 2022-09-16 20:06:47,835 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F3A00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/778b043fe8c0e059fe0c384f5bef95f4
+
+WARNING 2022-09-16 20:07:00,559 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F05B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cc9345e65b23b71de2b109055a3eb6b8
+
+WARNING 2022-09-16 20:07:04,628 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F39A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cc9345e65b23b71de2b109055a3eb6b8
+
+WARNING 2022-09-16 20:07:08,707 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F3CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cc9345e65b23b71de2b109055a3eb6b8
+
+WARNING 2022-09-16 20:07:21,418 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F1390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/37af1275d6b07ba75b676178d578b731
+
+WARNING 2022-09-16 20:07:25,481 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F09D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/37af1275d6b07ba75b676178d578b731
+
+WARNING 2022-09-16 20:07:29,517 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F3E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/37af1275d6b07ba75b676178d578b731
+
+WARNING 2022-09-16 20:07:42,242 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966F2260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cb439eaf3d0c684c421cf5137bdc59b9
+
+WARNING 2022-09-16 20:07:46,315 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021291845750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cb439eaf3d0c684c421cf5137bdc59b9
+
+WARNING 2022-09-16 20:07:50,349 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021291846590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cb439eaf3d0c684c421cf5137bdc59b9
+
+WARNING 2022-09-16 20:08:03,110 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212874B3FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7584a51e13a5685373f901b5838e6255
+
+WARNING 2022-09-16 20:08:07,188 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021291845FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7584a51e13a5685373f901b5838e6255
+
+WARNING 2022-09-16 20:08:11,239 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021291846950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7584a51e13a5685373f901b5838e6255
+
+WARNING 2022-09-16 20:08:23,976 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212966E50F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/31bde02c6c1f3dbb58132bb1c8cb3ee8
+
+WARNING 2022-09-16 20:08:28,037 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212918469E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/31bde02c6c1f3dbb58132bb1c8cb3ee8
+
+WARNING 2022-09-16 20:08:32,069 [connectionpool.py:urlopen:812]
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021291847E80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/31bde02c6c1f3dbb58132bb1c8cb3ee8
+
+INFO 2022-09-16 20:13:17,156 [_common.py:__init__:89]
+Saving cached data to C:\Users\liban\OneDrive - University of Waterloo\Projects\Football-Modelling\data\source\WhoScored
+
+INFO 2022-09-16 20:13:17,891 [patcher.py:patch_exe:231]
+patching driver executable C:\Users\liban\appdata\roaming\undetected_chromedriver\256a8066bd4489c1_chromedriver.exe
+
+INFO 2022-09-16 20:13:19,451 [whoscored.py:read_schedule:335]
+Retrieving game schedule of ENG-Premier League - 2021 from the cache
+
+INFO 2022-09-16 20:13:19,471 [whoscored.py:read_events:584]
+[1/380] Retrieving game with id=1485529
+
+INFO 2022-09-16 20:13:35,368 [whoscored.py:read_events:584]
+[2/380] Retrieving game with id=1485539
+
+INFO 2022-09-16 20:13:55,658 [whoscored.py:read_events:584]
+[3/380] Retrieving game with id=1485341
+
+INFO 2022-09-16 20:13:55,686 [whoscored.py:read_events:584]
+[4/380] Retrieving game with id=1485521
+
